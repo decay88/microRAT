@@ -1,2 +1,2 @@
 # microRAT
-Sneaky python remote admin tool for lightweight functionality
+Sneaky C++ remote admin tool for lightweight functionality
